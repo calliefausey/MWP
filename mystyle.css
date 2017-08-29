@@ -1,7 +1,44 @@
-body {
-    text-align: center;
+body{
+	background-color: pink;
+	  text-align: center;
 }
-p  {
-    color: purple;
-    font-family: Comic Sans MS;
+
+p {
+	color: purple;
+	font-family: Comic Sans MS;
+	
+}
+
+#cimg {
+	
+	border: 25px solid purple;
+	margin: 25px;
+}
+
+#bimg {
+	
+	border: 25px solid black;
+	margin: 25px;
+}
+
+#mimg {
+	
+	border: 25px solid brown;
+	margin: 25px;
+}
+
+#limg {
+	
+	border: 25px solid white;
+	margin: 25px;
+}
+
+#mlimg {
+	
+	border: 25px solid green;
+	margin: 25px;
+}
+
+#button{
+	text-align: center-right;
 }
